@@ -39,7 +39,7 @@ function App() {
       </form>
   
       {!loading && data &&
-        {data}
+      
       <div>
        <h1> My shiny {data.name}</h1>
        <h2>PokedexNo: {data.id}</h2>
