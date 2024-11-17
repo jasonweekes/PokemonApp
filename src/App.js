@@ -37,6 +37,7 @@ function App() {
         submit
         </button>
       </form>
+  {e.target.value}
   {data.name}
       {!loading && data &&
       <div>
