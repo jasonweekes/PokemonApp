@@ -38,7 +38,7 @@ function App() {
         </button>
       </form>
   {e.target.value}
-  {data.name}
+  {data}
       {!loading && data &&
       <div>
        <h1> My shiny {data.name}</h1>
